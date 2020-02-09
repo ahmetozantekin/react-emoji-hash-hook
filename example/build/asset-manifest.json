@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-emoji-hash/static/css/main.2c6a48fe.chunk.css",
+    "main.js": "/react-emoji-hash/static/js/main.9e9c4280.chunk.js",
+    "main.js.map": "/react-emoji-hash/static/js/main.9e9c4280.chunk.js.map",
+    "runtime-main.js": "/react-emoji-hash/static/js/runtime-main.2b3ead92.js",
+    "runtime-main.js.map": "/react-emoji-hash/static/js/runtime-main.2b3ead92.js.map",
+    "static/js/2.ee0429d5.chunk.js": "/react-emoji-hash/static/js/2.ee0429d5.chunk.js",
+    "static/js/2.ee0429d5.chunk.js.map": "/react-emoji-hash/static/js/2.ee0429d5.chunk.js.map",
+    "index.html": "/react-emoji-hash/index.html",
+    "precache-manifest.87eab1eb58e15c6bf2ea80ee715d079c.js": "/react-emoji-hash/precache-manifest.87eab1eb58e15c6bf2ea80ee715d079c.js",
+    "service-worker.js": "/react-emoji-hash/service-worker.js",
+    "static/css/main.2c6a48fe.chunk.css.map": "/react-emoji-hash/static/css/main.2c6a48fe.chunk.css.map",
+    "static/js/2.ee0429d5.chunk.js.LICENSE.txt": "/react-emoji-hash/static/js/2.ee0429d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b3ead92.js",
+    "static/js/2.ee0429d5.chunk.js",
+    "static/css/main.2c6a48fe.chunk.css",
+    "static/js/main.9e9c4280.chunk.js"
+  ]
+}
