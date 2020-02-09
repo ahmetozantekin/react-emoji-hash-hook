@@ -21,9 +21,9 @@ const App = () => {
   const textToEmoji_2 = useHashEmoji('A.Ozan Tekin');
   return (
     <div>
-    Hello World: {textToEmoji} // output: Hello World: 👘🐷🇰🇭💾
+    Hello World: {textToEmoji}      // output: Hello World: 👘🐷🇰🇭💾
      <br/>
-    A.Ozan Tekin:  {textToEmoji_2} // output: Hello World: 🍄🇲🇹🚻🐍
+    A.Ozan Tekin:  {textToEmoji_2}  // output: A.Ozan Tekin: 🍄🇲🇹🚻🐍
     </div>
   )
 }
