@@ -1,6 +1,6 @@
 # react-emoji-hash
 
-> react spoiler hook
+> react hook for text hash as emojis 
 
 [![NPM](https://img.shields.io/npm/v/react-emoji-hash.svg)](https://www.npmjs.com/package/react-emoji-hash) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
