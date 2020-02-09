@@ -18,7 +18,7 @@ import { useHashEmoji } from 'react-emoji-hash'
 
 const App = () => {
   const textToEmoji = useHashEmoji('Hello World');
-  const textToEmoji_2 = useHashEmoji('Hello World');
+  const textToEmoji_2 = useHashEmoji('A.Ozan Tekin');
   return (
     <div>
     Hello World: {textToEmoji} // output: Hello World: 👘🐷🇰🇭💾
