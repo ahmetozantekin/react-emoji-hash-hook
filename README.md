@@ -32,3 +32,7 @@ const App = () => {
 ## License
 
 MIT © [ahmetozantekin](https://github.com/ahmetozantekin)
+
+___
+
+inspiration [pymojihash](https://github.com/kawa-kokosowa/pymojihash)
