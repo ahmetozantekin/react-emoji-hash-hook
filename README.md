@@ -35,4 +35,4 @@ MIT © [ahmetozantekin](https://github.com/ahmetozantekin)
 
 ___
 
-inspiration [pymojihash](https://github.com/kawa-kokosowa/pymojihash)
+based on [pymojihash](https://github.com/kawa-kokosowa/pymojihash)
